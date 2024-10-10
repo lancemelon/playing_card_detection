@@ -12,6 +12,7 @@ Create new folder on desktop<br>Download best.pt & detection.py and copy store i
 
 # TROUBLESHOOT
 *Make sure you have latest version of python and pip installed: https://www.python.org/downloads/<br>
+*Make sure source='yourVideo.mp4' (yourVideo is the name of your personal image/video in single quotes)
 *Download best.pt and detection and save into newly made folder (check downloads folder and copy paste into new folder)<br>
 *Copy and paste commands directly into terminal in vsCode (shortcut: ctrl+shift+`)<br>
 *Make sure personal image or video is in .mp4 or .jpeg format<br>
