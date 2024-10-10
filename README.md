@@ -4,7 +4,7 @@ Object Detection Model for identifying playing card with corresponding suit and 
 # VERSION 1.0
 
 EXAMPLE OF MODEL:
-[![Watch the video](https://youtube.com/shorts/XUW03UxUuHI?feature=share)
+https://youtube.com/shorts/XUW03UxUuHI?feature=share
 
 # HOW TO USE
 # Pre Reqs: vsCode (any code editor) and python (latest version 3.13.0)
